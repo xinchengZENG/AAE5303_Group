@@ -34,6 +34,7 @@ The KISS principle in coding (Keep It Simple, Stupid).
 - **VO:** https://github.com/yourgroup/vo
 - **Opensplating:** https://github.com/yourgroup/opensplating
 - **U-net:** https://github.com/yourgroup/u-net
+- **Slides:** https://github.com/mcllouie/AAE5303-Group_Project-WMZ_Slides
 
 Up to 3 members~
 ---
