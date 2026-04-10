@@ -33,10 +33,11 @@ Our name represents our journey – we may have joined late, but we always fix t
 
 ## Group Projects
 
-- **(group) Final project:** [GitHub repo link](#)
-- **VO:** [GitHub repo link](#)
-- **Opensplating:** [GitHub repo link](#)
-- **U-net:** [GitHub repo link](#)
+- **(group) Final project（PPT）:** https://connectpolyu-my.sharepoint.com/:p:/g/personal/25132971g_connect_polyu_hk/IQAu_lRS5Wd5SIW_yIDgdSP1Aa7HFZh_wnAVu4bXDlSYKVs?email=yi-wei.xing%40connect.polyu.hk&e=JhDIqL
+- **VO:** https://github.com/JinZhengzhen/aae5303-vo-groupwork-orbslam3-amtown02
+- **Opensplating:** https://github.com/JinZhengzhen/aae5303-orbslam3-opensplat-tutorial
+- **U-net:** https://github.com/shentonyan/amtown-unet
+- **VLN:** https://github.com/seaweed-swd/PolyU-AAE5303-MyIndoorUAV
 
 ## Fun Facts about ALateFix
 
