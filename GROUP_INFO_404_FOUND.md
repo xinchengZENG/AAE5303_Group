@@ -29,8 +29,7 @@ Error:Success
 - **Name:** WANG Ruipu
 - **Brief Introduction:** Ruipu has just started learning programming, is very interested in this course, and is confident in being able to master it successfully.
 - **(individual) Assignment 1:** https://github.com/LancerPu/PolyU-AAE5303-assignment-1-template/blob/main/assi1.md
-- **(individual) Assignment 2:** https://github.com/LancerPu/PolyU-AAE5303-assignment-2-template/blob/main/assi2.md
-
+- **(individual) Assignment 2:** https://github.com/LancerPu/AAE5303_assignment2_orbslam3_demo-
 ### ❌ Member 3
 - **Student ID:** 25106011G
 - **Name:** TONG Yuru
@@ -42,9 +41,8 @@ Error:Success
 - **(group) Final project:** https://github.com/box717/final-project
 - **VO:** https://github.com/box717
 - **Opensplating:** https://github.com/LancerPu
-- **U-net:** https://github.com/billyTryToCode
-
+- **U-net:** https://github.com/LancerPu/Pytorch-UNet
 Up to 3 members~
 ---
 
-*Last Updated: [Date]*
+*Last Updated: 2026.4.17
