@@ -24,6 +24,7 @@ Error:Success
 - **Brief Introduction:** freshman
 - **(individual) Assignment 1:** https://github.com/box717/PolyU-AAE5303-assignment-1
 - **(individual) Assignment 2:** https://github.com/box717/AAE5303_assignment2_orbslam3_demo.git
+- **(individual) Reflection Report:** https://github.com/box717/Reflection_Report.git
 ### ❌ Member 2
 - **Student ID:** 25128553G
 - **Name:** WANG Ruipu
@@ -40,7 +41,7 @@ Error:Success
 ## Group Projects
 - **(group) Final project:** https://github.com/box717/final-project
 - **VO:** https://github.com/box717
-- **Opensplating:** https://github.com/LancerPu
+- **Opensplating:** https://github.com/box717/OpenSplat.git
 - **U-net:** https://github.com/LancerPu/Pytorch-UNet
 - **Slides:** https://github.com/Tong-Yuru/AAE5303-404_FOUND_Presentation
 
