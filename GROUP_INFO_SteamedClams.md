@@ -10,6 +10,7 @@ Carrot🥕? Tissue🧻? Zheng Bang😊!
 - **Brief Introduction** [ME➡️LAE|only know "hello world"|very little coding experience|the most strict mother of AI]
 - **(individual) Assignment 1:** [https://github.com/YuxinYang2002/AAE5303-assignment1]
 - **(individual) Assignment 2:** [https://github.com/YuxinYang2002/AAE5303_assignment2]
+- **(individual) Reflection Report:** [https://github.com/YuxinYang2002/AAE5303_Relfection_Report]
 
 ### 🐱Member 2:
 - **Student ID** [25053467g]
