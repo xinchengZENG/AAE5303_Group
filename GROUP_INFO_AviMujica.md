@@ -40,10 +40,11 @@ Emotions may be unstable, but the system remains under control.
 - **(individual) Assignment 2:** https://github.com/billyTryToCode/assignment2
 
 ## Group Projects
-- **(group) Final project:** https://github.com/F1u0rite/final-project
-- **VO:** https://github.com/f1u0rite
-- **Opensplating:** https://github.com/billyTryToCode
-- **U-net:** https://github.com/BHBAllen
+- **(group) Final project:** https://github.com/F1u0rite/SGMF-Nav
+- **VLFM:** https://github.com/F1u0rite/my_vlfm
+- **Opensplating:** https://github.com/billyTryToCode/OpenSplat
+- **VLMaps:** https://github.com/BHBAllen/vlmaps-hm3d
+- **Group Slide:** https://connectpolyu-my.sharepoint.com/:p:/g/personal/25043507g_connect_polyu_hk/IQD0BODvR-7qQIyeoBZfhCMcAQJNf7uuHnSv95bcWmZfAnM?e=Iqvjfm
 
 Up to 3 members~
 ---

@@ -10,6 +10,7 @@ Carrot🥕? Tissue🧻? Zheng Bang😊!
 - **Brief Introduction** [ME➡️LAE|only know "hello world"|very little coding experience|the most strict mother of AI]
 - **(individual) Assignment 1:** [https://github.com/YuxinYang2002/AAE5303-assignment1]
 - **(individual) Assignment 2:** [https://github.com/YuxinYang2002/AAE5303_assignment2]
+- **(individual) Reflection Report:** [https://github.com/YuxinYang2002/AAE5303_Relfection_Report]
 
 ### 🐱Member 2:
 - **Student ID** [25053467g]
@@ -27,6 +28,7 @@ Carrot🥕? Tissue🧻? Zheng Bang😊!
 
 ## Group Projects
 - **(group) Final project:** [https://github.com/yourgroup/final-project]
-- **VO:** [https://github.com/yourgroup/vo]
+- **VO:** [https://github.com/YuxinYang2002/AAE5303_group_project_VO]
 - **Opensplating:** [https://github.com/yourgroup/opensplating]
 - **U-net:** [https://github.com/yourgroup/u-net]
+- **slides：** [https://github.com/YuxinYang2002/AAE5303_group_slide]

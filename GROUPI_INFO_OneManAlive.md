@@ -11,38 +11,14 @@ As it going, only me.
 - **Name:** DU Jiayi Rachel
 - **About Me:** Otaku
 - **(individual) Assignment 1:** https://github.com/ReiSei0824/Assignment1_25005153G
-- **(individual) Assignment 2:** [GitHub repo link]
-- **Photo (Optional):** [You can add a photo link or emoji here if you want!]
-
-### Member 2
-- **Student ID:** [Your ID]
-- **Name:** [Your Name]
-- **About Me:** [Your introduction]
-- **(individual) Assignment 1:** [GitHub repo link]
-- **(individual) Assignment 2:** [GitHub repo link]
-- **Photo (Optional):** [You can add a photo link or emoji here if you want!]
-
-### Member 3
-- **Student ID:** [Your ID]
-- **Name:** [Your Name]
-- **About Me:** [Your introduction]
-- **(individual) Assignment 1:** [GitHub repo link]
-- **(individual) Assignment 2:** [GitHub repo link]
-- **Photo (Optional):** [You can add a photo link or emoji here if you want!]
+- **(individual) Assignment 2:** https://github.com/ReiSei0824/AAE5303-Assignment2-25005153G
+- **Reflection Report:** https://github.com/ReiSei0824/AAE5303-Reflection-Report-25005153G-DU-Jiayi-Rachel
 
 ## Group Projects
-- **(group) Final project:** [GitHub repo link]
-- **VO:** [GitHub repo link]
-- **Opensplating:** [GitHub repo link]
-- **U-net:** [GitHub repo link]
+- **(group) Final project:** https://github.com/ReiSei0824/AAE5303-GroupProject
+- **VO:** https://github.com/ReiSei0824/AAE5303-GroupProject/tree/VO
+- **Opensplating:** https://github.com/ReiSei0824/AAE5303-GroupProject/tree/OpenSplatting
+- **U-net:** https://github.com/ReiSei0824/AAE5303-GroupProject/tree/U-Net
+- **Slides:** https://github.com/ReiSei0824/AAE5303-GroupProject/tree/Slides
+- **Recording:** https://github.com/ReiSei0824/AAE5303-GroupProject/tree/Recording
 ```
-
-## 🎉 Ready to Create?
-
-Go ahead and open `GROUP_INFO_demo.md` and start creating your masterpiece! 
-
-**Remember: Be creative, be yourself, and most importantly - have fun!** 🎊✨
-
----
-
-*P.S. We can't wait to see what amazing things you come up with! Good luck! 🍀*

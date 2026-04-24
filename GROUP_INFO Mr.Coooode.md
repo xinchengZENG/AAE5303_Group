@@ -10,6 +10,7 @@
 - **About Me:** [Willing to learn something and be more creative through this courses]
 - **(individual) Assignment 1:** [https://github.com/LIUXiaolu424/PolyU-AAE5303-assignment-1]
 - **(individual) Assignment 2:** [https://github.com/LIUXiaolu424/AAE5303_assignment2_orbslam3]
+- **(individual) Reflection report:** [https://github.com/LIUXiaolu424/AAE5303_Reflection_essay]
 
 ### Member 2
 - **Student ID:** [25053849G]
@@ -27,7 +28,8 @@
 - **Photo (Optional):** [You can add a photo link or emoji here if you want!]
 
 ## Group Projects
-- **(group) Final project:** [https://github.com/yourgroup/final-project]
-- **VO:** [https://github.com/yourgroup/vo]
+- **(group) Final project:** [https://github.com/LIUXiaolu424/AAE5303-Mr.Coooode-GroupProject]
+- **VO:** [https://github.com/xinchengZENG/VIO]
 - **Opensplating:** [https://github.com/LIUXiaolu424/AAE5303_OpenSplat]
 - **U-net:** [https://github.com/yourgroup/u-net]
+- **Slides:** [https://github.com/LIUXiaolu424/AAE5303-Group-Slides]
